@@ -1,0 +1,15 @@
+Beschrijving:
+Een fictieve verkoopdataset geanalyseerd in Power BI met KPI’s voor omzet, marge en productcategorieën.
+Het dashboard bevat interactieve filters, KPI-tiles en duidelijke visualisaties.
+
+Gebruikte tools:
+* Power BI
+* DAX berekeningen en datamodellering
+* Visualisatieprincipes en consistent design
+
+Leerdoel:
+Het ontwikkelen van een professioneel bedrijfsdashboard met nadruk op leesbaarheid en KPI-inzichten.
+
+Bestanden:
+* Power BI-rapport (sales_dashboard.pbix)
+* Export (sales_dashboard.pdf, sales_dashboard.png)
